@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Rujan0833/Rujan0833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rujan**, a web developer based in Nepal.
 
-Here are some ideas to get you started:
+I build stuff for the web, mostly backend these days, but I can handle the full stack when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I think it's cool, I'll probably build it. If it involves blockchain or some wild new tech, even better.
+
+My main tech stack is **React**, **Next.js**, **Tailwind CSS**, **PayloadCMS**, **Django**, and I've dabbled in **blockchain** (built a project on Ethereum with Solidity). My go-to languages are **JavaScript**, **TypeScript**, and **Python**.
+
+I'm currently a final year **BCS CSIT student**, which means I'm juggling code, coffee, and deadlines.
+
+I've got a bunch of projects scattered around here, but my favorite is probably the [**Blockchain Project**](https://github.com/Rujan0833/Blockchain-Project) I worked on with my friends. That was a blast.
+
+If you want to see what I've been up to or learn more about my work, check out my [**portfolio**](https://rujanrajlawat.com.np)!
+
+---
+
+## Fun Facts:
+
+- ☕ **Coffee addict** (black, no sugar - the only way)
+- 💪 Love hitting the gym and lifting heavy things
+- 🎨 Used to draw a lot (might pick it up again someday)
+- 📝 Obsessed with taking notes - **Obsidian** is my second brain
+- 🖥️ **Terminal enthusiast** - CLI over GUI any day
+- 🎓 Final year student trying to graduate without losing my sanity
+
+---
+
+## Tech I Work With:
+
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Django, PayloadCMS  
+**Blockchain:** Solidity, Ethereum  
+**Languages:** JavaScript, TypeScript, Python  
+**Tools:** Terminal, Obsidian, Git
+
+---
+
+## Let's Connect:
+
+🌐 Portfolio: [rujanrajlawat.com.np](https://rujanrajlawat.com.np)  
+💻 GitHub: [github.com/Rujan0833](https://github.com/Rujan0833)
+
+---
+
+*Currently fueled by coffee and curiosity. Building cool stuff one commit at a time.* ☕💻
