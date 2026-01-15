@@ -27,16 +27,6 @@ If you want to see what I've been up to or learn more about my work, check out m
 
 ---
 
-## Tech I Work With:
-
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Django, PayloadCMS  
-**Blockchain:** Solidity, Ethereum  
-**Languages:** JavaScript, TypeScript, Python  
-**Tools:** Terminal, Obsidian, Git
-
----
-
 ## Let's Connect:
 
 🌐 Portfolio: [rujanrajlawat.com.np](https://rujanrajlawat.com.np)  
