@@ -4,8 +4,6 @@ I'm **Rujan**, a web developer based in Nepal.
 
 I build stuff for the web, mostly backend these days, but I can handle the full stack when needed.
 
-If I think it's cool, I'll probably build it. If it involves blockchain or some wild new tech, even better.
-
 My main tech stack is **React**, **Next.js**, **Tailwind CSS**, **PayloadCMS**, **Django**, and I've dabbled in **blockchain** (built a project on Ethereum with Solidity). My go-to languages are **JavaScript**, **TypeScript**, and **Python**.
 
 I'm currently a final year **BCS CSIT student**, which means I'm juggling code, coffee, and deadlines.
