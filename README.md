@@ -8,7 +8,19 @@ My main tech stack is **React**, **Next.js**, **Tailwind CSS**, **PayloadCMS**, 
 
 I'm currently a final year **BCS CSIT student**, which means I'm juggling code, coffee, and deadlines.
 
-I've got a bunch of projects scattered around here, but my favorite is probably the [**Blockchain Project**](https://github.com/Rujan0833/Blockchain-Project) I worked on with my friends. That was a blast.
+---
+
+## ⚡ Currently Working On:
+### [**Bhoomika ERP**](https://github.com/Rujan0833/Bhoomika-frontend) 🏢
+A comprehensive Municipality-level ERP system for property, rental, and tax management.
+- **Tech**: React, TypeScript, Vite, TanStack Query, Tailwind CSS.
+- **Contributions**: Architected a stakeholder-centric rental registry, implemented a hierarchical asset selection system (GIS-ready), and developed a custom persistent form state tracking system to prevent data loss across 20+ complex modules.
+
+---
+
+## 🚀 Featured Projects:
+- [**Blockchain Project**](https://github.com/Rujan0833/Blockchain-Project) - My favorite project built with friends on Ethereum/Solidity.
+- [**Bhoomika Frontend**](https://github.com/Rujan0833/Bhoomika-frontend) - Large-scale ERP for local governance.
 
 If you want to see what I've been up to or learn more about my work, check out my [**portfolio**](https://rujanrajlawat.com.np)!
 
