@@ -2,7 +2,7 @@
 
 I'm **Rujan**, a web developer based in **Nepal**. 
 
-I build stuff for the web—mostly backend these days, but I can handle the full stack when needed. My main tech stack includes **React, Next.js, Tailwind CSS, PayloadCMS, and Django**. I've also dabbled in **Blockchain** (built a project on Ethereum with Solidity). My go-to languages are **JavaScript, TypeScript, and Python**.
+I build stuff for the web mostly backend these days, but I can handle the full stack when needed. My main tech stack includes **React, Next.js, Tailwind CSS, PayloadCMS, and Django**. I've also dabbled in **Blockchain** (built a project on Ethereum with Solidity). My go to languages are **JavaScript, TypeScript, and Python**.
 
 I'm currently a final year **BSc CSIT student**, which means I'm juggling code, coffee, and deadlines.
 
