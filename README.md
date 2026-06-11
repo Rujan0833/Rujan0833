@@ -23,11 +23,10 @@ I'm currently a final year **BSc CSIT student**, which means I'm juggling code, 
 
 ### 🎨 Fun Facts
 * ☕ **Coffee addict** (black, no sugar – the only way)
-* 💪 Love hitting the gym and lifting heavy things
+* 💪 Love hitting the gym and lifting heavy 
 * 🎨 Used to draw a lot (might pick it up again someday)
 * 📝 Obsessed with taking notes – **Obsidian** is my second brain
 * 🖥️ **Terminal enthusiast** – CLI over GUI any day
-* 🎓 Final year student trying to graduate without losing my sanity
 
 ---
 
